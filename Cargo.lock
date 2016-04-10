@@ -1,0 +1,4 @@
+[root]
+name = "regex_to_nfa"
+version = "0.1.0"
+

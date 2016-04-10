@@ -1,0 +1,6 @@
+[package]
+name = "regex_to_nfa"
+version = "0.1.0"
+authors = ["Tim Wilkens <timwilkensf1@gmail.com>"]
+
+[dependencies]
